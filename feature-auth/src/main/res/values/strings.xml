@@ -1,0 +1,4 @@
+<resources>
+    <string name="login_hint_password_input">Password</string>
+    <string name="login_hint_first_name_input">First name</string>
+</resources>
